@@ -62,19 +62,19 @@
       <div class="caption">Arduino UNO Rev3</div>
     </div>
     <div>
-      <img src="https://cdn.sparkfun.com//assets/parts/1/1/0/3/14326-Arduino_Motor_Shield_R3-01.jpg" alt="Motor Shield">
+      <img src="https://media.digikey.com/Photos/Arduino%20Photos/A000079.jpg" alt="Motor Shield">
       <div class="caption">Motor Shield</div>
     </div>
     <div>
-      <img src="https://www.waveshare.com/img/devkit/b/solar-power-management-module-3.jpg" alt="Solar Charger">
-      <div class="caption">Solar Charger Shield v2.2</div>
+      <img src="https://cdn.sparkfun.com/assets/parts/1/1/2/3/13781-Solar_Charging_Shield-v2.0.jpg" alt="Solar Charger">
+      <div class="caption">Solar Charger Shield</div>
     </div>
     <div>
-      <img src="https://cdn.shopifycdn.net/s/files/1/0045/0545/4364/products/HM-19-Bluetooth-5.0-Module_1200x1200.jpg" alt="Bluetooth HM-19">
+      <img src="https://www.dsdtech-global.com/uploads/5/6/8/8/56888061/hm-19_orig.jpg" alt="Module Bluetooth HM-19">
       <div class="caption">Module Bluetooth HM-19</div>
     </div>
     <div>
-      <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/TD/NL/XN/49699819/eunicell-523450.jpg" alt="Batterie">
+      <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/E200/EUN523450LI.jpg" alt="Batterie 523450">
       <div class="caption">Batterie Li-ion 523450</div>
     </div>
     <div>
